@@ -1,0 +1,29 @@
+{
+  "name": "xlsx-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sir-Turtle/xlsx-json.git"
+  },
+  "keywords": [
+    "node",
+    "excel",
+    "json",
+    "javascript."
+  ],
+  "author": "Tolga Akkaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sir-Turtle/xlsx-json/issues"
+  },
+  "homepage": "https://github.com/Sir-Turtle/xlsx-json#readme",
+  "dependencies": {
+    "excel": "^0.1.7",
+    "jsonfile": "^2.4.0"
+  }
+}

@@ -1,0 +1,478 @@
+[
+  {
+    "name": "models",
+    "value": "E38-7 series"
+  },
+  {
+    "name": "models",
+    "value": "E39-5 series"
+  },
+  {
+    "name": "models",
+    "value": "E46-3 series"
+  },
+  {
+    "name": "models",
+    "value": "E60-520d"
+  },
+  {
+    "name": "models",
+    "value": "E60-520i"
+  },
+  {
+    "name": "models",
+    "value": "E60-523i"
+  },
+  {
+    "name": "models",
+    "value": "E60-525d"
+  },
+  {
+    "name": "models",
+    "value": "E60-525i"
+  },
+  {
+    "name": "models",
+    "value": "E60-530d"
+  },
+  {
+    "name": "models",
+    "value": "E60-530i"
+  },
+  {
+    "name": "models",
+    "value": "E60-540i"
+  },
+  {
+    "name": "models",
+    "value": "E60-550i"
+  },
+  {
+    "name": "models",
+    "value": "E63-630i"
+  },
+  {
+    "name": "models",
+    "value": "E63-650i"
+  },
+  {
+    "name": "models",
+    "value": "E63M6-M6"
+  },
+  {
+    "name": "models",
+    "value": "E64-630i"
+  },
+  {
+    "name": "models",
+    "value": "E64-650i"
+  },
+  {
+    "name": "models",
+    "value": "E64M6-M6"
+  },
+  {
+    "name": "models",
+    "value": "E65-730d"
+  },
+  {
+    "name": "models",
+    "value": "E65-730i"
+  },
+  {
+    "name": "models",
+    "value": "E65-740i"
+  },
+  {
+    "name": "models",
+    "value": "E65-750i"
+  },
+  {
+    "name": "models",
+    "value": "E65-760i"
+  },
+  {
+    "name": "models",
+    "value": "E66-730Ld"
+  },
+  {
+    "name": "models",
+    "value": "E66-730Li"
+  },
+  {
+    "name": "models",
+    "value": "E66-740Li"
+  },
+  {
+    "name": "models",
+    "value": "E66-750Li"
+  },
+  {
+    "name": "models",
+    "value": "E66-760Li"
+  },
+  {
+    "name": "models",
+    "value": "E70-X5 3.0d"
+  },
+  {
+    "name": "models",
+    "value": "E70-X5 3.0si"
+  },
+  {
+    "name": "models",
+    "value": "E70-X5 4.8i"
+  },
+  {
+    "name": "models",
+    "value": "E81-116i"
+  },
+  {
+    "name": "models",
+    "value": "E81-118d"
+  },
+  {
+    "name": "models",
+    "value": "E81-118i"
+  },
+  {
+    "name": "models",
+    "value": "E81-120d"
+  },
+  {
+    "name": "models",
+    "value": "E81-120i"
+  },
+  {
+    "name": "models",
+    "value": "E81-130i"
+  },
+  {
+    "name": "models",
+    "value": "E82-120d"
+  },
+  {
+    "name": "models",
+    "value": "E82-135is"
+  },
+  {
+    "name": "models",
+    "value": "E83-2.0d"
+  },
+  {
+    "name": "models",
+    "value": "E83-2.0i"
+  },
+  {
+    "name": "models",
+    "value": "E83-2.0sd"
+  },
+  {
+    "name": "models",
+    "value": "E83-2.5si"
+  },
+  {
+    "name": "models",
+    "value": "E83-3.0d"
+  },
+  {
+    "name": "models",
+    "value": "E83-3.0si"
+  },
+  {
+    "name": "models",
+    "value": "E85-2.0i"
+  },
+  {
+    "name": "models",
+    "value": "E85-2.5i"
+  },
+  {
+    "name": "models",
+    "value": "E85-2.5si"
+  },
+  {
+    "name": "models",
+    "value": "E85-3.0si"
+  },
+  {
+    "name": "models",
+    "value": "E85 - Z4 Coupé-"
+  },
+  {
+    "name": "models",
+    "value": "E85M-M Roadster"
+  },
+  {
+    "name": "models",
+    "value": "E86-3.0si"
+  },
+  {
+    "name": "models",
+    "value": "E86M-M Coupé"
+  },
+  {
+    "name": "models",
+    "value": "E87-116i"
+  },
+  {
+    "name": "models",
+    "value": "E87-118d"
+  },
+  {
+    "name": "models",
+    "value": "E87-118i"
+  },
+  {
+    "name": "models",
+    "value": "E87-120d"
+  },
+  {
+    "name": "models",
+    "value": "E87-120i"
+  },
+  {
+    "name": "models",
+    "value": "E87-130i"
+  },
+  {
+    "name": "models",
+    "value": "E88-120i"
+  },
+  {
+    "name": "models",
+    "value": "E88-135is"
+  },
+  {
+    "name": "models",
+    "value": "E90-316i"
+  },
+  {
+    "name": "models",
+    "value": "E90-318d"
+  },
+  {
+    "name": "models",
+    "value": "E90-318i"
+  },
+  {
+    "name": "models",
+    "value": "E90-320d"
+  },
+  {
+    "name": "models",
+    "value": "E90-320i"
+  },
+  {
+    "name": "models",
+    "value": "E90-325i"
+  },
+  {
+    "name": "models",
+    "value": "E90-330d"
+  },
+  {
+    "name": "models",
+    "value": "E90-330i"
+  },
+  {
+    "name": "models",
+    "value": "E90-335i"
+  },
+  {
+    "name": "models",
+    "value": "E90M3-M3"
+  },
+  {
+    "name": "models",
+    "value": "E92-320d"
+  },
+  {
+    "name": "models",
+    "value": "E92-320i"
+  },
+  {
+    "name": "models",
+    "value": "E92-325i"
+  },
+  {
+    "name": "models",
+    "value": "E92-330d"
+  },
+  {
+    "name": "models",
+    "value": "E92-330i"
+  },
+  {
+    "name": "models",
+    "value": "E92-335i"
+  },
+  {
+    "name": "models",
+    "value": "E92M3-M3"
+  },
+  {
+    "name": "models",
+    "value": "E93-320i"
+  },
+  {
+    "name": "models",
+    "value": "E93-325i"
+  },
+  {
+    "name": "models",
+    "value": "E93-330d"
+  },
+  {
+    "name": "models",
+    "value": "E93-330i"
+  },
+  {
+    "name": "models",
+    "value": "E93-335i"
+  },
+  {
+    "name": "models",
+    "value": "F30"
+  },
+  {
+    "name": "models",
+    "value": "F31"
+  },
+  {
+    "name": "models",
+    "value": "F32"
+  },
+  {
+    "name": "models",
+    "value": "F33"
+  },
+  {
+    "name": "models",
+    "value": "F34"
+  },
+  {
+    "name": "models",
+    "value": "F36"
+  },
+  {
+    "name": "models",
+    "value": "F45"
+  },
+  {
+    "name": "models",
+    "value": "F46"
+  },
+  {
+    "name": "models",
+    "value": "F48"
+  },
+  {
+    "name": "models",
+    "value": "F49"
+  },
+  {
+    "name": "models",
+    "value": "F80"
+  },
+  {
+    "name": "models",
+    "value": "F82"
+  },
+  {
+    "name": "models",
+    "value": "F83"
+  },
+  {
+    "name": "models",
+    "value": "F85"
+  },
+  {
+    "name": "models",
+    "value": "F86"
+  },
+  {
+    "name": "models",
+    "value": "F87"
+  },
+  {
+    "name": "models",
+    "value": "G11"
+  },
+  {
+    "name": "models",
+    "value": "G12"
+  },
+  {
+    "name": "models",
+    "value": "G30"
+  },
+  {
+    "name": "models",
+    "value": "I01"
+  },
+  {
+    "name": "models",
+    "value": "I12"
+  },
+  {
+    "name": "models",
+    "value": "R50"
+  },
+  {
+    "name": "models",
+    "value": "R52"
+  },
+  {
+    "name": "models",
+    "value": "R53"
+  },
+  {
+    "name": "models",
+    "value": "R55"
+  },
+  {
+    "name": "models",
+    "value": "R56"
+  },
+  {
+    "name": "models",
+    "value": "R57"
+  },
+  {
+    "name": "models",
+    "value": "R58"
+  },
+  {
+    "name": "models",
+    "value": "R59"
+  },
+  {
+    "name": "models",
+    "value": "R60"
+  },
+  {
+    "name": "models",
+    "value": "R61"
+  },
+  {
+    "name": "models",
+    "value": "F54"
+  },
+  {
+    "name": "models",
+    "value": "F55"
+  },
+  {
+    "name": "models",
+    "value": "F56"
+  },
+  {
+    "name": "models",
+    "value": "F57"
+  },
+  {
+    "name": "models",
+    "value": "F60"
+  }
+]
