@@ -8,7 +8,7 @@ chmod +x /path/to/your/xlsx-json.js.
 To then run the script:
 node /path/to/your/xlsx-json.js. 
 
-Node version: 0.10.46
-Npm dependencies: 
-    excel version: "0.1.7
-    jsonfile version: ^2.4.0
+ **Node version:** 0.10.46  
+ **Npm dependencies:**  
+   - **excel version:** 0.1.7  
+   - **jsonfile version:** ^2.4.0  
