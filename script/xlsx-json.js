@@ -5,7 +5,7 @@ var importfilePath = path.resolve('/Users/Tolga/workspace/' +
 	'xlsx-json/data/list-exports.xlsx');
 var picklistName;
 var picklistJSON = [];
-var worksheets = 3;
+var worksheets = 2;
 jsonfile.spaces = 2;
 
 function constructJSON(picklistName, value) {

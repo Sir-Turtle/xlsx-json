@@ -1,0 +1,681 @@
+[
+  {
+    "parents": [
+      "United Arab Emirates"
+    ],
+    "name": "capital_cities",
+    "value": "Abu Dhabi"
+  },
+  {
+    "parents": [
+      "Nigeria"
+    ],
+    "name": "capital_cities",
+    "value": "Abuja"
+  },
+  {
+    "parents": [
+      "Ghana"
+    ],
+    "name": "capital_cities",
+    "value": "Accra"
+  },
+  {
+    "parents": [
+      "Pitcairn"
+    ],
+    "name": "capital_cities",
+    "value": "Adamstown"
+  },
+  {
+    "parents": [
+      "Ethiopia"
+    ],
+    "name": "capital_cities",
+    "value": "Addis Ababa"
+  },
+  {
+    "parents": [
+      "Algeria"
+    ],
+    "name": "capital_cities",
+    "value": "Algiers"
+  },
+  {
+    "parents": [
+      "Niue"
+    ],
+    "name": "capital_cities",
+    "value": "Alofi"
+  },
+  {
+    "parents": [
+      "Jordan"
+    ],
+    "name": "capital_cities",
+    "value": "Amman"
+  },
+  {
+    "parents": [
+      "Netherlands"
+    ],
+    "name": "capital_cities",
+    "value": "Amsterdam"
+  },
+  {
+    "parents": [
+      "Andorra"
+    ],
+    "name": "capital_cities",
+    "value": "Andorra la Vella"
+  },
+  {
+    "parents": [
+      "Turkey"
+    ],
+    "name": "capital_cities",
+    "value": "Ankara"
+  },
+  {
+    "parents": [
+      "Madagascar"
+    ],
+    "name": "capital_cities",
+    "value": "Antananarivo"
+  },
+  {
+    "parents": [
+      "Samoa"
+    ],
+    "name": "capital_cities",
+    "value": "Apia"
+  },
+  {
+    "parents": [
+      "Turkmenistan"
+    ],
+    "name": "capital_cities",
+    "value": "Ashgabat"
+  },
+  {
+    "parents": [
+      "Eritrea"
+    ],
+    "name": "capital_cities",
+    "value": "Asmara"
+  },
+  {
+    "parents": [
+      "Kazakhstan"
+    ],
+    "name": "capital_cities",
+    "value": "Astana"
+  },
+  {
+    "parents": [
+      "Paraguay"
+    ],
+    "name": "capital_cities",
+    "value": "Asunción"
+  },
+  {
+    "parents": [
+      "Greece"
+    ],
+    "name": "capital_cities",
+    "value": "Athens"
+  },
+  {
+    "parents": [
+      "Cook Islands"
+    ],
+    "name": "capital_cities",
+    "value": "Avarua"
+  },
+  {
+    "parents": [
+      "Iraq"
+    ],
+    "name": "capital_cities",
+    "value": "Baghdad"
+  },
+  {
+    "parents": [
+      "Azerbaijan"
+    ],
+    "name": "capital_cities",
+    "value": "Baku"
+  },
+  {
+    "parents": [
+      "Mali"
+    ],
+    "name": "capital_cities",
+    "value": "Bamako"
+  },
+  {
+    "parents": [
+      "Brunei"
+    ],
+    "name": "capital_cities",
+    "value": "Bandar Seri Begawan"
+  },
+  {
+    "parents": [
+      "Thailand"
+    ],
+    "name": "capital_cities",
+    "value": "Bangkok"
+  },
+  {
+    "parents": [
+      "Central African Republic"
+    ],
+    "name": "capital_cities",
+    "value": "Bangui"
+  },
+  {
+    "parents": [
+      "Gambia"
+    ],
+    "name": "capital_cities",
+    "value": "Banjul"
+  },
+  {
+    "parents": [
+      "Guadeloupe"
+    ],
+    "name": "capital_cities",
+    "value": "Basse-Terre"
+  },
+  {
+    "parents": [
+      "Saint Kitts and Nevis"
+    ],
+    "name": "capital_cities",
+    "value": "Basseterre"
+  },
+  {
+    "parents": [
+      "China"
+    ],
+    "name": "capital_cities",
+    "value": "Beijing"
+  },
+  {
+    "parents": [
+      "Lebanon"
+    ],
+    "name": "capital_cities",
+    "value": "Beirut"
+  },
+  {
+    "parents": [
+      "Serbia"
+    ],
+    "name": "capital_cities",
+    "value": "Belgrade"
+  },
+  {
+    "parents": [
+      "Belize"
+    ],
+    "name": "capital_cities",
+    "value": "Belmopan"
+  },
+  {
+    "parents": [
+      "Germany"
+    ],
+    "name": "capital_cities",
+    "value": "Berlin [1]"
+  },
+  {
+    "parents": [
+      "Switzerland"
+    ],
+    "name": "capital_cities",
+    "value": "Bern"
+  },
+  {
+    "parents": [
+      "Kyrgyzstan"
+    ],
+    "name": "capital_cities",
+    "value": "Bishkek"
+  },
+  {
+    "parents": [
+      "Guinea-Bissau"
+    ],
+    "name": "capital_cities",
+    "value": "Bissau"
+  },
+  {
+    "parents": [
+      "Colombia"
+    ],
+    "name": "capital_cities",
+    "value": "Bogotá"
+  },
+  {
+    "parents": [
+      "Brazil"
+    ],
+    "name": "capital_cities",
+    "value": "Brasília"
+  },
+  {
+    "parents": [
+      "Slovakia"
+    ],
+    "name": "capital_cities",
+    "value": "Bratislava"
+  },
+  {
+    "parents": [
+      "Republic of the Congo"
+    ],
+    "name": "capital_cities",
+    "value": "Brazzaville"
+  },
+  {
+    "parents": [
+      "Barbados"
+    ],
+    "name": "capital_cities",
+    "value": "Bridgetown"
+  },
+  {
+    "parents": [
+      "Belgium"
+    ],
+    "name": "capital_cities",
+    "value": "Brussels"
+  },
+  {
+    "parents": [
+      "Romania"
+    ],
+    "name": "capital_cities",
+    "value": "Bucharest"
+  },
+  {
+    "parents": [
+      "Hungary"
+    ],
+    "name": "capital_cities",
+    "value": "Budapest"
+  },
+  {
+    "parents": [
+      "Argentina"
+    ],
+    "name": "capital_cities",
+    "value": "Buenos Aires"
+  },
+  {
+    "parents": [
+      "Burundi"
+    ],
+    "name": "capital_cities",
+    "value": "Bujumbura"
+  },
+  {
+    "parents": [
+      "Egypt"
+    ],
+    "name": "capital_cities",
+    "value": "Cairo"
+  },
+  {
+    "parents": [
+      "Australia"
+    ],
+    "name": "capital_cities",
+    "value": "Canberra"
+  },
+  {
+    "parents": [
+      "Venezuela"
+    ],
+    "name": "capital_cities",
+    "value": "Caracas"
+  },
+  {
+    "parents": [
+      "Saint Lucia"
+    ],
+    "name": "capital_cities",
+    "value": "Castries"
+  },
+  {
+    "parents": [
+      "French Guiana"
+    ],
+    "name": "capital_cities",
+    "value": "Cayenne"
+  },
+  {
+    "parents": [
+      "United States Virgin Islands"
+    ],
+    "name": "capital_cities",
+    "value": "Charlotte Amalie"
+  },
+  {
+    "parents": [
+      "Moldova"
+    ],
+    "name": "capital_cities",
+    "value": "Chișinău"
+  },
+  {
+    "parents": [
+      "Turks and Caicos Islands"
+    ],
+    "name": "capital_cities",
+    "value": "Cockburn Town"
+  },
+  {
+    "parents": [
+      "Guinea"
+    ],
+    "name": "capital_cities",
+    "value": "Conakry"
+  },
+  {
+    "parents": [
+      "Denmark"
+    ],
+    "name": "capital_cities",
+    "value": "Copenhagen"
+  },
+  {
+    "parents": [
+      "Senegal"
+    ],
+    "name": "capital_cities",
+    "value": "Dakar"
+  },
+  {
+    "parents": [
+      "Syria"
+    ],
+    "name": "capital_cities",
+    "value": "Damascus"
+  },
+  {
+    "parents": [
+      "Bangladesh"
+    ],
+    "name": "capital_cities",
+    "value": "Dhaka"
+  },
+  {
+    "parents": [
+      "East Timor (Timor-Leste)"
+    ],
+    "name": "capital_cities",
+    "value": "Dili"
+  },
+  {
+    "parents": [
+      "Djibouti"
+    ],
+    "name": "capital_cities",
+    "value": "Djibouti"
+  },
+  {
+    "parents": [
+      "Tanzania"
+    ],
+    "name": "capital_cities",
+    "value": "Dodoma (official, legislative)"
+  },
+  {
+    "parents": [
+      "Qatar"
+    ],
+    "name": "capital_cities",
+    "value": "Doha"
+  },
+  {
+    "parents": [
+      "Isle of Man"
+    ],
+    "name": "capital_cities",
+    "value": "Douglas"
+  },
+  {
+    "parents": [
+      "Ireland"
+    ],
+    "name": "capital_cities",
+    "value": "Dublin"
+  },
+  {
+    "parents": [
+      "Tajikistan"
+    ],
+    "name": "capital_cities",
+    "value": "Dushanbe"
+  },
+  {
+    "parents": [
+      "State of Palestine"
+    ],
+    "name": "capital_cities",
+    "value": "East Jerusalem(declared)"
+  },
+  {
+    "parents": [
+      ""
+    ],
+    "name": "capital_cities",
+    "value": "Ramallah (de facto)"
+  },
+  {
+    "parents": [
+      "Tristan da Cunha"
+    ],
+    "name": "capital_cities",
+    "value": "Edinburgh of the Seven Seas"
+  },
+  {
+    "parents": [
+      "Sahrawi Arab Democratic Republic [c]"
+    ],
+    "name": "capital_cities",
+    "value": "Laayoune (declared)"
+  },
+  {
+    "parents": [
+      ""
+    ],
+    "name": "capital_cities",
+    "value": "Tifariti (de facto)"
+  },
+  {
+    "parents": [
+      "Akrotiri and Dhekelia"
+    ],
+    "name": "capital_cities",
+    "value": "Episkopi Cantonment"
+  },
+  {
+    "parents": [
+      "Christmas Island"
+    ],
+    "name": "capital_cities",
+    "value": "Flying Fish Cove"
+  },
+  {
+    "parents": [
+      "Martinique"
+    ],
+    "name": "capital_cities",
+    "value": "Fort-de-France"
+  },
+  {
+    "parents": [
+      "Sierra Leone"
+    ],
+    "name": "capital_cities",
+    "value": "Freetown"
+  },
+  {
+    "parents": [
+      "Tuvalu"
+    ],
+    "name": "capital_cities",
+    "value": "Funafuti"
+  },
+  {
+    "parents": [
+      "Botswana"
+    ],
+    "name": "capital_cities",
+    "value": "Gaborone"
+  },
+  {
+    "parents": [
+      "Cayman Islands"
+    ],
+    "name": "capital_cities",
+    "value": "George Town"
+  },
+  {
+    "parents": [
+      "Ascension Island"
+    ],
+    "name": "capital_cities",
+    "value": "Georgetown"
+  },
+  {
+    "parents": [
+      "Guyana"
+    ],
+    "name": "capital_cities",
+    "value": "Georgetown"
+  },
+  {
+    "parents": [
+      "Gibraltar"
+    ],
+    "name": "capital_cities",
+    "value": "Gibraltar"
+  },
+  {
+    "parents": [
+      "Chechnya"
+    ],
+    "name": "capital_cities",
+    "value": "Grozny"
+  },
+  {
+    "parents": [
+      "Guatemala"
+    ],
+    "name": "capital_cities",
+    "value": "Guatemala City"
+  },
+  {
+    "parents": [
+      "Saint Barthélemy"
+    ],
+    "name": "capital_cities",
+    "value": "Gustavia"
+  },
+  {
+    "parents": [
+      "Guam"
+    ],
+    "name": "capital_cities",
+    "value": "Hagåtña"
+  },
+  {
+    "parents": [
+      "Bermuda"
+    ],
+    "name": "capital_cities",
+    "value": "Hamilton"
+  },
+  {
+    "parents": [
+      "Easter Island"
+    ],
+    "name": "capital_cities",
+    "value": "Hanga Roa"
+  },
+  {
+    "parents": [
+      "Vietnam"
+    ],
+    "name": "capital_cities",
+    "value": "Hanoi"
+  },
+  {
+    "parents": [
+      "Zimbabwe"
+    ],
+    "name": "capital_cities",
+    "value": "Harare"
+  },
+  {
+    "parents": [
+      "Somaliland"
+    ],
+    "name": "capital_cities",
+    "value": "Hargeisa"
+  },
+  {
+    "parents": [
+      "Cuba"
+    ],
+    "name": "capital_cities",
+    "value": "Havana"
+  },
+  {
+    "parents": [
+      "Finland"
+    ],
+    "name": "capital_cities",
+    "value": "Helsinki"
+  },
+  {
+    "parents": [
+      "Hong Kong"
+    ],
+    "name": "capital_cities",
+    "value": "Hong Kong"
+  },
+  {
+    "parents": [
+      "Solomon Islands"
+    ],
+    "name": "capital_cities",
+    "value": "Honiara"
+  },
+  {
+    "parents": [
+      "Pakistan"
+    ],
+    "name": "capital_cities",
+    "value": "Islamabad"
+  },
+  {
+    "parents": [
+      "Indonesia"
+    ],
+    "name": "capital_cities",
+    "value": "Jakarta"
+  },
+  {
+    "parents": [
+      "Saint Helena"
+    ],
+    "name": "capital_cities",
+    "value": "Jamestown"
+  }
+]
