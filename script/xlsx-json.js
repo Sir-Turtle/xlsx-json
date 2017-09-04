@@ -2,7 +2,7 @@ var parseXlsx = require('excel');
 var jsonfile = require('jsonfile');
 var path = require('path');
 var importfilePath = path.resolve('/Users/Tolga/workspace/' +
-	'xlsx-json/data/list-exports.xlsx');
+	'xlsx-json/data/sample-lists.xlsx');
 var picklistName;
 var picklistJSON = [];
 var worksheets = 2;
