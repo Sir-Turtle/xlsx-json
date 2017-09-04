@@ -14,27 +14,25 @@ Each column being a unique attribute for an object defined by each row. Currentl
 ```
 git clone https://github.com/Sir-Turtle/xlsx-json.git xlsx-json
 ```
-2. Change directory:
+2. Change directory into the newly cloned local repository:
 ```
 cd xlsx-json
 ```
-3. Install Node Version Manager:
-```
+3. Install Node Version Manager by following the instructions here:
 https://github.com/creationix/nvm/blob/master/README.md#install-script
-```
-4. For the script to execute you'll need a Node version of v0.10.46, so lets install that:
+4. For the script to execute you'll need Node version 0.10.46, so lets install that:
 ```
 nvm install v0.10.46
 ```
-5. You can list and view all node versions installed by:
+5. You can list and view all Node versions installed by:
 ```
 nvm list
 ```
-6. You can switch between them with this command by stating the version number such as:
+6. You can switch between versions with this command by stating the version number such as:
 ```
 nvm use v0.10.46
 ```
-7. Verify Node version is v0.10.46:
+7. Verify Node version is 0.10.46:
 ```
 node -v
 ```
