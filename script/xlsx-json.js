@@ -1,33 +1,32 @@
 var parseXlsx = require('excel');
 var jsonfile = require('jsonfile');
-var path = require('path');
-var importfilePath = path.resolve('/Users/Tolga/workspace/' +
-	'xlsx-json/data/sample-lists.xlsx');
-var picklistName;
-var picklistJSON = [];
-var worksheets = 2;
+const path = require('path');
+const projectPath = path.resolve(__dirname + '/..');
+const dataSourcePath = path.join(projectPath, '/data');
+var listName;
+var listJSON = [];
 jsonfile.spaces = 2;
 
-function constructJSON(picklistName, value) {
-	picklistJSON.push({
-		name: picklistName,
+function constructJSON(listName, value) {
+	listJSON.push({
+		name: listName,
 		value: value
 	});
 }
 
-function constructParentJSON(picklistName, value, parentValue) {
-	picklistJSON.push({
+function constructParentJSON(listName, value, parentValue) {
+	listJSON.push({
 		parents: [parentValue],
-		name: picklistName,
+		name: listName,
 		value: value
 	});
 }
 
-function writeJSON(fileName, picklistJSON) {
-	var writePath = path.resolve('/Users/Tolga/workspace/xlsx-json/data/lists/' +
+function writeJSON(fileName, listJSON) {
+	var writePath = path.join(dataSourcePath, '/json-lists/' +
 		fileName + '.json');
 
-	jsonfile.writeFile(writePath, picklistJSON, function(err) {
+	jsonfile.writeFile(writePath, listJSON, function(err) {
 		if (err) {
 			console.error('writeFile error: ', err);
 			return;
@@ -42,28 +41,33 @@ function determineConstructor(err, data) {
 	}
 
 	var i;
-	picklistName = data[0][1];
-	if(!picklistName){
-		console.log('importing regular picklist');
-		picklistName = data[0][0];
-		console.log('picklistName: ', picklistName);
+	listName = data[0][1];
+	if(!listName){
+		console.log('parsing independent list');
+		listName = data[0][0];
+		console.log('listName: ', listName);
 		for (i = 1; i < data.length; i++) {
-			constructJSON(picklistName, data[i][0]);
+			constructJSON(listName, data[i][0]);
 		}
 	} else {
-		console.log('importing dependant picklist');
-		picklistName = data[0][1];
-		console.log('picklistName: ', picklistName);
+		console.log('parsing dependant list');
+		listName = data[0][1];
+		console.log('listName: ', listName);
 		for (i = 1; i < data.length; i++) {
-			constructParentJSON(picklistName, data[i][1], data[i][0]);
+			constructParentJSON(listName, data[i][1], data[i][0]);
 		}
 	}
 
-	writeJSON(picklistName, picklistJSON);
-	picklistJSON = [];
+	writeJSON(listName, listJSON);
+	listJSON = [];
 }
 
-for (var w = 1; w <= worksheets; w++) {
-	parseXlsx(importfilePath, w, determineConstructor);
+
+if (process.argv.length < 4) {
+	console.warn('Usage: node script/xlsx-json <filename> 2');
+} else {
+	for (var w = 1; w <= process.argv[3]; w++) {
+		parseXlsx(path.join(dataSourcePath, process.argv[2]), process.argv[3], determineConstructor);
+	}
 }
 
