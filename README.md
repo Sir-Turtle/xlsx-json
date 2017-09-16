@@ -44,9 +44,14 @@ npm install
 ```
 chmod +x /path/to/your/xlsx-json.js
 ``` 
-9. Finally, to run the script: 
+9. Finally, to run the script you need to provide four arguments: 
+  - The "node" command will execute the JavaScript file
+  - JavaScript filename to execute, which is xlsx-json in this case
+  - <filename> being the excel file you would like to process, sample-lists.xlsx is a file in the data directory of project for testing
+  - a digit of how many worksheets to process
 ```
-node /path/to/your/xlsx-json.js
+node /path/to/your/xlsx-json <filename> #
+ex: node script/xlsx-json sample-lists.xlsx 2
 ```
 
 
